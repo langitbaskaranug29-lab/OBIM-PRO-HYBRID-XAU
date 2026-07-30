@@ -1,0 +1,2 @@
+//@version=6
+indicator("OBIM PRO HYBRID", overlay=true)
